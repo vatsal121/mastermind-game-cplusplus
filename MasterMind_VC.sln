@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MasterMind_VC", "MasterMind_VC\MasterMind_VC.vcxproj", "{53C55B17-652C-42C1-BE45-1A09F3BE0118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Debug|x64.ActiveCfg = Debug|x64
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Debug|x64.Build.0 = Debug|x64
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Debug|x86.ActiveCfg = Debug|Win32
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Debug|x86.Build.0 = Debug|Win32
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Release|x64.ActiveCfg = Release|x64
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Release|x64.Build.0 = Release|x64
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Release|x86.ActiveCfg = Release|Win32
+		{53C55B17-652C-42C1-BE45-1A09F3BE0118}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290D1EFD-30B9-4BB8-9CB9-BDBFC31E3BF6}
+	EndGlobalSection
+EndGlobal
